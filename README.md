@@ -38,10 +38,3 @@ Dies war es von mir. Ich wünsche dir viel Spaß auf meinem Github Profil!
 [![Telegram](https://img.shields.io/badge/-Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.com/netzwerkdev/)
 
 [![E-Mail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kontakt@netzwerkdev.eu)
-
-
-
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

@@ -7,16 +7,12 @@
 - 💼 | Schüler
 ## 🚀 | Über mich
 
-Ich heiße Justin, bin aktuell 23 Jahre alt und noch Schüler. Ab vorraussichtlich 1.09.2023 werde ich meine Ausbildung zum Kaufmann für Verkehrsservice im Zug anfangen. Ich habe vor der Schule bereits lange als Altenpfleger gearbeitet. Ich wohne aktuell noch in der nähe von Frankfurt a. Main, aber möchte später in Berlin oder Köln wohnen. 
+Ich heiße Justin, bin aktuell 24 Jahre alt und noch Schüler. Ab 1.09.2025 werde ich meine Ausbildung zum Kaufmann für Verkehrsservice im Bahnhof anfangen. Ich habe vor der Schule bereits lange als Altenpfleger gearbeitet. Ich wohne aktuell noch in der nähe von Frankfurt a. Main, aber möchte später in Berlin oder Köln wohnen. 
 
 Ich meiner freien Zeit leite ich verschiedene Server. Aktuell leite ich 2 FiveM Server. 
 
-- Roleplay Server: https://discord.gg/feelv
-- Crimelife Server: https://discord.gg/feelvcl
-
-Aktuell gehöre ich auch zum größten Trading Marktplatz für LabyMod Cosmetics. 
-
-- LabyUnity: https://discord.gg/LabyUnity
+- Roleplay Server: https://discord.gg/divocity
+- Crimelife Server: https://discord.gg/divocitycl
 
 Wenn ich dann nichts mehr zu tun habe, bin ich auch gerne Gamer. Aktuell leidet dies zwar etwas, wegen den Projekten, aber dies wird besser. Aktuelle Games wären folgende:
 
@@ -25,7 +21,7 @@ Wenn ich dann nichts mehr zu tun habe, bin ich auch gerne Gamer. Aktuell leidet 
 - Minecraft
 - World Of Tanks
 - Counter Strike Source
-- Euro Truck Simulator
+- Euro Truck Simulator 2
 
 Dies war es von mir. Ich wünsche dir viel Spaß auf meinem Github Profil! 
 
